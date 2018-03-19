@@ -1,0 +1,15 @@
+
+alexa ask curismo how many pills did i have today
+alexa ask curismo what pills have i not had today
+alexa ask curismo when did i last have my pills
+alexa ask curismo at what time did i last have my pills
+alexa ask curismo what is my daily prescription
+alexa ask curismo how many pills do i have to take today
+
+
+1) How many taken
+2) How many pills left to be taken
+3) At what time did I have the pills at last
+4) What is my prescription
+5) Detects which slot is approached
+
